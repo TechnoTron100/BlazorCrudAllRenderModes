@@ -1,4 +1,4 @@
-﻿namespace BlazorCrudAllRenderModes.Entity
+﻿namespace BlazorCrudDotNet8.Shared.Entity
 {
     public class Game
     {

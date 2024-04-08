@@ -1,7 +1,8 @@
-﻿using BlazorCrudAllRenderModes.Entity;
+﻿
+using BlazorCrudDotNet8.Shared.Entity;
 using Microsoft.EntityFrameworkCore;
 
-namespace BlazorCrudAllRenderModes.Data
+namespace BlazorCrudDotNet8.Shared.Data
 {
     public class DataContext : DbContext
     {

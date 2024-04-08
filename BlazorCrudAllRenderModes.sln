@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorCrudAllRenderModes", "BlazorCrudAllRenderModes\BlazorCrudAllRenderModes\BlazorCrudAllRenderModes.csproj", "{AA51BE54-9142-4EA0-9E12-B7F66DA5FA70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorCrudAllRenderModes", "BlazorCrudAllRenderModes\BlazorCrudAllRenderModes\BlazorCrudAllRenderModes.csproj", "{AA51BE54-9142-4EA0-9E12-B7F66DA5FA70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorCrudAllRenderModes.Client", "BlazorCrudAllRenderModes\BlazorCrudAllRenderModes.Client\BlazorCrudAllRenderModes.Client.csproj", "{B2CCB32B-9E51-4BB9-B7C3-C9A155837E1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorCrudAllRenderModes.Client", "BlazorCrudAllRenderModes\BlazorCrudAllRenderModes.Client\BlazorCrudAllRenderModes.Client.csproj", "{B2CCB32B-9E51-4BB9-B7C3-C9A155837E1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorCrudDotNet8.Shared", "BlazorCrudDotNet8.Shared\BlazorCrudDotNet8.Shared.csproj", "{DCE8E52A-CB1F-4AB0-88BB-BEFD8E969AF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B2CCB32B-9E51-4BB9-B7C3-C9A155837E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2CCB32B-9E51-4BB9-B7C3-C9A155837E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2CCB32B-9E51-4BB9-B7C3-C9A155837E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE8E52A-CB1F-4AB0-88BB-BEFD8E969AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE8E52A-CB1F-4AB0-88BB-BEFD8E969AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE8E52A-CB1F-4AB0-88BB-BEFD8E969AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE8E52A-CB1F-4AB0-88BB-BEFD8E969AF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
